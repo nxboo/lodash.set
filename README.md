@@ -1,4 +1,4 @@
-# lodash.set v4.3.2
+# lodash.set v4.22.22
 
 The [lodash](https://lodash.com/) method `_.set` exported as a [Node.js](https://nodejs.org/) module.
 
